@@ -8,14 +8,14 @@ The Database will be created in user Documents Folder considering Fp_Recog as th
 
 # REQUIREMENTS:
 
-01. Python3
-02. Numpy
-03. Matplotlib(Optional)
-04. Open-CV
+01. python3
+02. numpy
+03. matplotlib(Optional)
+04. opencv-python
 05. tkinter
-06. Pillow
-07. Os Module (in-built)
-08. Sys Module (in-built)
+06. pillow
+07. os Module (in-built)
+08. sys Module (in-built)
 09. psutil
 10. shutil Module (in-built)
 11. getpass Module (in-built)
