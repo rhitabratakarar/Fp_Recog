@@ -20,7 +20,7 @@ if __name__ == "__main__":
     if __name__ == "__main__":
 
         window = Tk()
-        window.title('-: CHECK YOUR FINGERPRINT :-')
+        window.title('-: CHOOSE YOUR FINGERPRINT :-')
         window.geometry("500x500")
         window.configure(background="white")
         window.resizable(0, 0)
@@ -64,11 +64,11 @@ if __name__ == "__main__":
 
         admin = ImageTk.PhotoImage(admin_pic)
         pic2cmpdir_label = Label(window, image=admin, bg="white")
-        pic2cmpdir_label.place(x=192, y=0)
+        pic2cmpdir_label.place(x=170, y=-15)
 
         # exit button...
 
-        Button(window, text="exit".upper(), fg="white", bg="red", font=("arial", 14, "italic"), command=window.destroy).place(
+        Button(window, text="exit".upper(), fg="white", bg="red", font=("arial", 14, "italic"), relief="raised", command=window.destroy).place(
             x=429, y=461)
 
         apply_button = Button(window, text="APPLY", fg="white", bg="blue", font=("arial", 14, "italic"), state=DISABLED,
