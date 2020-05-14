@@ -17,11 +17,11 @@ The Database will be created in user Documents Folder considering fp_recog as th
 06. pillow
 07. os Module (in-built)
 08. sys Module (in-built)
-09. psutil (optional)
-10. ray (optional)
-11. shutil Module (in-built)
-12. getpass Module (in-built)
-13. random Module (in-built)
+09. shutil Module (in-built)
+10. getpass Module (in-built)
+11. random Module (in-built)
+12. psutil (optional)
+13. ray (optional)
 
 # NOTE:
 
