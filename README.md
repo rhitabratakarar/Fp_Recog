@@ -25,5 +25,5 @@ The Database will be created in user Documents Folder considering fp_recog as th
 
 # NOTE:
 
-To Run the system, execute the RUN.py from terminal otherwise it may raise some FileNotFoundError.
+To Run the system, execute the RUN.py from terminal by going to the directory otherwise it may raise some FileNotFoundError.
 This system is designed to work with Windows and unix-like operating systems :p.
