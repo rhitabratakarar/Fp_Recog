@@ -22,3 +22,8 @@ The Database will be created in user Documents Folder considering fp_recog as th
 11. shutil Module (in-built)
 12. getpass Module (in-built)
 13. random Module (in-built)
+
+# NOTE:
+
+To Run the system, execute the RUN.py from terminal otherwise it may raise some FileNotFoundError.
+This system is designed to work with Windows and unix-like operating systems :p.
