@@ -9,7 +9,7 @@ The Database will be created in user Documents Folder considering fp_recog as th
 
 # REQUIREMENTS:
 
-01. python3
+01. python >= v3.5
 02. numpy
 03. matplotlib(Optional)
 04. opencv-python
