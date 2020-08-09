@@ -26,6 +26,5 @@ The Database will be created in user Documents Folder considering fp_recog as th
 # NOTE:
 
 To Run the system, execute the RUN.py from terminal by changing the directory otherwise it may raise some FileNotFoundError.
-This system is designed to work with Windows and unix-like operating systems :p.
 
 And it *Does not Check For the Region Of Interest* thus, a lot of accuracy issues could be encountered while matching the same fingerprint twice.
